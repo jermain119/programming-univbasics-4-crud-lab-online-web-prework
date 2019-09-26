@@ -38,5 +38,9 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
+<<<<<<< HEAD
   array[2] = "totally"
+=======
+  array[2] = ""
+>>>>>>> 19dfcc4540f845f3dadbb98cce5a38814cb5b553
 end
